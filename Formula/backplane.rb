@@ -2,9 +2,9 @@ class Backplane < Formula
   desc ''
   homepage 'https://dl.equinox.io/backplaneio/backplane'
 
-  url 'https://bin.equinox.io/a/aH39V7wPqRr/backplane-1.4.7-darwin-amd64.tar.gz'
-  sha256 'ac82ca4ed96e12b2f025ccb5b57a88baf63c7a9cfacad69398fc2bab657ae256'
-  version '1.4.7'
+  url 'https://bin.equinox.io/a/89FDpmCA4hv/backplane-1.5.0-darwin-amd64.tar.gz'
+  sha256 '364f8f3a40795300d1f433fe708ae0c09558c388721ae709a26d5ee116d70ad9'
+  version '1.5.0'
 
   def install
     bin.install 'backplane'
